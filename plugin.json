@@ -1,0 +1,8 @@
+{
+  "name": "cfo-financial-data",
+  "version": "1.0.0",
+  "description": "Three skills: collecting and refreshing numbers, reconciling invoices and payments, and shaping data by product, customer and project. The financial data part of the CFO agent.",
+  "author": "p-take55",
+  "license": "MIT",
+  "homepage": "https://github.com/p-take55/aachat-cfo"
+}
